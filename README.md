@@ -1,5 +1,5 @@
 # AAXHash
-A fast and simple wrappe/client for retrieving AAX activation bytes.
+A fast and simple wrapper/client for retrieving AAX activation bytes.
 Retrieves AAX activation bytes using [audible-converter](https://audible-converter.ml).
 Usage:
 ```bash
